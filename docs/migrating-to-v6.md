@@ -63,7 +63,7 @@ As mentioned above, we need to remove the `react-native-firebase` NPM module fro
 ```
 
 To remove the package from your local environment, delete the `yarn.lock`/`package-lock.json` files and reinstall
-the project dependencies with `yarn`.
+the project dependencies with `yarn` or `npm install`.
 
 ---
 
